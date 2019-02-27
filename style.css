@@ -1,0 +1,38 @@
+.animation {
+width:360px;
+height: 280px;
+background-image: url(background.jpg);
+margin:50px auto;
+border-radius:20px;
+position:relative;
+border:solid black 2px;
+}
+
+.button {
+  position:absolute;
+  width:106px;
+  height:38px;
+  left:40px;
+  top:140px;
+  overflow: hidden;
+  padding: 25px 0px;
+  margin-top:auto;
+
+
+}
+
+
+.kranten {
+  position:absolute;
+  width:152px;
+  height:140px;
+  left:190px;
+  top:75px;
+  overflow: hidden;
+  padding: 25px 0px;
+  margin-top:auto;
+  overflow:hidden;
+
+
+
+}
